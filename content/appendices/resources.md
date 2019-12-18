@@ -8,6 +8,7 @@
 - Cosmo Grant - [Is It Impossible To Be Fair?](https://3milychu.github.io/algorithmic-fairness/)
 - Data & Society - [Unpacking "Ethical AI" - A curated reading list](https://points.datasociety.net/unpacking-ethical-ai-b770b964c236)
 - WSDM'19 Tutorial - [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/wsdm19-fairness-tutorial)
+- Arvind Narayanan - [How to recognize AI snake oil](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)
 
 ## Conferences & Workshops
 
