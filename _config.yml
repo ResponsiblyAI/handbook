@@ -20,7 +20,7 @@ title: Doing Data Science Responsibly
 author: Shlomi Hod
 email: shlomi@bu.edu
 description: >-
-  Handbook for practitioners to learn how to be responsible data scientists.
+  Learn how to become a responsible data scientist.
 
 baseurl: /  # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
 url: https://handbook.responsibly.ai//  # the base hostname & protocol for your site, e.g. http://example.com
