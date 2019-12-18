@@ -34,10 +34,12 @@
   not_numbered: true
   expand_sections: true
   sections:
-  - url: /aspects/02-fairness
-  - url: /aspects/03-impact
-  - url: /aspects/04-privacy
-  - url: /aspects/05-interpretability
+  - url: /aspects/02-robustness
+  - url: /aspects/03-fairness
+  - url: /aspects/04-impact
+  - url: /aspects/05-privacy
+  - url: /aspects/06-interpretability
+  - url: /aspects/07-security
 
 - divider: true
 - header: Appendices
