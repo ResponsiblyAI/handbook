@@ -24,6 +24,7 @@
 - [FAT Forensics](https://fat-forensics.org/)
 - [What-if Tool](https://pair-code.github.io/what-if-tool/) - Google
 - [Aequitas](https://dsapp.uchicago.edu/projects/aequitas/)
+- [fairlearn](https://github.com/fairlearn/fairlearn) - Microsoft
 - [responsibly](http://docs.responsibly.ai/)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
@@ -45,8 +46,9 @@
 - Arvind Narayanan - ACM FAT* 2018 - [21 Fairness Definitions and their Politics](https://fairmlbook.org/tutorial2.html)
 - Solon Barocas and Moritz Hardt - NIPS2017 - [Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html)
 
-## Technology - Is it the Solution?
+## Technology and Society
 
+- Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019, January). [Fairness and abstraction in sociotechnical systems](http://friedler.net/papers/sts_fat2019.pdf). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 59-68). ACM.
 - Baumer, E. P., & Silberman, M. (2011, May). [When the implication is not to design (technology)](https://www.ics.uci.edu/~djp3/classes/2011_01_INF134/papers/impl9-rev.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 2271-2274). ACM.
 - [The problem with tech people who want to solve problems](https://www.vox.com/recode/2019/6/26/18758776/joi-ito-mit-media-lab-resisting-reduction-exorcist-kara-swisher-recode-decode-podcast-interview) by MIT Media Lab director
 
