@@ -50,6 +50,8 @@
 - url: /appendices/monitoring
   not_numbered: true
 
+- divider: true
+
 - title: Responsibly Package
   url: https://docs.responsibly.ai/
   external: true
