@@ -6,6 +6,7 @@
 - Shira Mitchell - [Mirror Mirror - Reflections on Quantitative Fairness](https://shiraamitchell.github.io/fairness/)
 -  Suresh Venkatasubramanian - [Algorithmic Fairness: Measures, Methods and Representations](http://www.cs.utah.edu/~suresh/static/files/tutorial.pdf)
 - Cosmo Grant - [Is It Impossible To Be Fair?](https://3milychu.github.io/algorithmic-fairness/)
+- Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2018). [Prediction-based decisions and fairness: A catalogue of choices, assumptions, and definitions](https://arxiv.org/pdf/1811.07867.pdf). arXiv preprint arXiv:1811.07867.
 - Data & Society - [Unpacking "Ethical AI" - A curated reading list](https://points.datasociety.net/unpacking-ethical-ai-b770b964c236)
 - WSDM'19 Tutorial - [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/wsdm19-fairness-tutorial)
 - Arvind Narayanan - [How to recognize AI snake oil](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)
