@@ -65,6 +65,7 @@
 - [Fairness, Explainability, and Accountability for ML](https://las.inf.ethz.ch/teaching/feaml-s19) - ETH Zurich
 - [The Science of Data Ethics](https://www.seas.upenn.edu/~cis399/index.html) (and [this](https://www.cis.upenn.edu/~mkearns/teaching/SDE/ScienceDataEthics.pdf)) - Penn
 - [Human Contexts & Ethics of Data](https://hce-sts.org/) - UC Berkeley - Prof. Cathryn Carson
+- [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Calling Bullshit](https://callingbullshit.org/) - UW
 - [Paper] [Integrating Ethics within Machine-learning Courses](https://dl.acm.org/citation.cfm?id=3341164)
 - [Google Sheet] [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
