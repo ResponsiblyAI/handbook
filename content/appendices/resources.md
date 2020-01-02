@@ -54,13 +54,13 @@
 
 ## Courses
 
-- [Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) - NYU - Prof. Julia Stoyanovich
+- [Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) - NYU - Prof. Julia Stoyanovich ([paper](https://arxiv.org/pdf/1912.10564.pdf))
 - [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - CMU - Prof. Yulia Tsvetkov
 - [Data Science Ethics](https://datascienceethics.org) - Yale - Prof. Elisa Celis
 - [Critical Thinking in Data Science](https://locator.tlt.harvard.edu/course/colgsas-207093/2019/spring/14577) - Harvard - Prof. James Waldo ([video](https://youtu.be/PDYGjDYTY1o))
 - [Intelligent Systems: Design and Ethical Challenges](https://locator.tlt.harvard.edu/course/colgsas-160419/2019/spring/20399) - Harvard
 - [Law for Algorithms](http://aloni.net/lfa) - BU & UC Berkeley
-- [Embedded EthiCS](https://embeddedethics.seas.harvard.edu/) - Harvard
+- [Embedded EthiCS](https://embeddedethics.seas.harvard.edu/) - Harvard ([paper](https://arxiv.org/pdf/1808.05686.pdf))
 - [Foundations of Fairness in ML](http://jamiemorgenstern.com/teaching/f18-fairml/) - Georgia Tech
 - [Fairness, Explainability, and Accountability for ML](https://las.inf.ethz.ch/teaching/feaml-s19) - ETH Zurich
 - [The Science of Data Ethics](https://www.seas.upenn.edu/~cis399/index.html) (and [this](https://www.cis.upenn.edu/~mkearns/teaching/SDE/ScienceDataEthics.pdf)) - Penn
