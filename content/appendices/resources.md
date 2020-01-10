@@ -14,6 +14,8 @@
 ## Conferences & Workshops
 
 - [ACM FAT*](https://fatconference.org)
+- [AAAI/ACM AI, Ethics, and Society](https://www.aies-conference.com/)
+- [ACM Inaugural Symposium on Computer Science and Law](https://computersciencelaw.org/)
 - [FAT/ML](https://www.fatml.org)
 - ["Recent Developments in Research on Fairness" Workshop](https://simons.berkeley.edu/workshops/fairness-workshop-2)
 - ["Wrong at the Root: Racial Bias and the Tension Between Numbers and Words in Non-Internet Data" Workshop](https://simons.berkeley.edu/workshops/fairness-workshop-1)
@@ -28,7 +30,7 @@
 - [responsibly](http://docs.responsibly.ai/)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
-## Guidelines and Checklists
+## Guidelines, Checklists and Frameworks
 
 - [Montreal Declaration for a Responsible Development of AI](https://www.montrealdeclaration-responsibleai.com/)
 - Google - [Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
@@ -36,6 +38,7 @@
 - EU - [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai)
 - [Denon](http://deon.drivendata.org/) - An ethics checklist for data scientists
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., & Gebru, T. (2019, January). [Model cards for model reporting](https://arxiv.org/pdf/1810.03993.pdf). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 220-229). ACM.
+- doteveryone - [Consequence Scanning](https://www.doteveryone.org.uk/project/consequence-scanning/)
 - [AI Blindspot](http://aiblindspot.media.mit.edu/)
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 
