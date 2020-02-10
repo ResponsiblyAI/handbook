@@ -23,11 +23,12 @@
 
 ## Toolkits
 
+- [fairlearn](https://github.com/fairlearn/fairlearn) - Microsoft
 - [AIF360](https://aif360.mybluemix.net/), [AIX360](https://aix360.mybluemix.net/) - IBM
 - [FAT Forensics](https://fat-forensics.org/)
+- [Fairness Indicators](https://github.com/tensorflow/fairness-indicators) - Google
 - [What-if Tool](https://pair-code.github.io/what-if-tool/) - Google
 - [Aequitas](https://dsapp.uchicago.edu/projects/aequitas/)
-- [fairlearn](https://github.com/fairlearn/fairlearn) - Microsoft
 - [responsibly](http://docs.responsibly.ai/)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
