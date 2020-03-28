@@ -30,6 +30,8 @@
 - [What-if Tool](https://pair-code.github.io/what-if-tool/) - Google
 - [Aequitas](https://dsapp.uchicago.edu/projects/aequitas/)
 - [responsibly](http://docs.responsibly.ai/)
+- [WhyNot](https://github.com/zykls/whynot) - UC Berkeley
+- [ML-fairness-gym](https://github.com/google/ml-fairness-gym) - Google
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ## Guidelines, Checklists and Frameworks
