@@ -69,6 +69,7 @@
 - [Law for Algorithms](http://aloni.net/lfa) - BU & UC Berkeley
 - [Embedded EthiCS](https://embeddedethics.seas.harvard.edu/) - Harvard ([paper](https://arxiv.org/pdf/1808.05686.pdf))
 - [Foundations of Fairness in ML](http://jamiemorgenstern.com/teaching/f18-fairml/) - Georgia Tech
+- [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/) - MPI SWS
 - [Fairness, Explainability, and Accountability for ML](https://las.inf.ethz.ch/teaching/feaml-s19) - ETH Zurich
 - [The Science of Data Ethics](https://www.seas.upenn.edu/~cis399/index.html) (and [this](https://www.cis.upenn.edu/~mkearns/teaching/SDE/ScienceDataEthics.pdf)) - Penn
 - [Human Contexts & Ethics of Data](https://hce-sts.org/) - UC Berkeley - Prof. Cathryn Carson
