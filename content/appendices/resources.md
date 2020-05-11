@@ -86,6 +86,7 @@
 
 ## Kaggle Competitions
 
-- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+- Jigsaw - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge), [Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification), [Jigsaw Multilingual Toxic Comment Classification
+](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
 - [Google Research - Gendered Pronoun Resolution](https://www.kaggle.com/c/gendered-pronoun-resolution)
 - [Google Research - Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)
