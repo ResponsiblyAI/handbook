@@ -36,7 +36,7 @@
   sections:
   - url: /aspects/02-robustness
   - url: /aspects/03-fairness
-  - url: /aspects/04-impact
+  - url: /aspects/04-dynamics
   - url: /aspects/05-privacy
   - url: /aspects/06-interpretability
   - url: /aspects/07-security

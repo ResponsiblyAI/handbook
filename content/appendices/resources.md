@@ -45,6 +45,7 @@
 - [Denon](http://deon.drivendata.org/) - An ethics checklist for data scientists
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., & Gebru, T. (2019, January). [Model cards for model reporting](https://arxiv.org/pdf/1810.03993.pdf). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 220-229). ACM.
 - doteveryone - [Consequence Scanning](https://www.doteveryone.org.uk/project/consequence-scanning/)
+- [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
 - [AI Blindspot](http://aiblindspot.media.mit.edu/)
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 
