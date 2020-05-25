@@ -61,6 +61,7 @@
 - Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019, January). [Fairness and abstraction in sociotechnical systems](http://friedler.net/papers/sts_fat2019.pdf). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 59-68). ACM.
 - Baumer, E. P., & Silberman, M. (2011, May). [When the implication is not to design (technology)](https://www.ics.uci.edu/~djp3/classes/2011_01_INF134/papers/impl9-rev.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 2271-2274). ACM.
 - [The problem with tech people who want to solve problems](https://www.vox.com/recode/2019/6/26/18758776/joi-ito-mit-media-lab-resisting-reduction-exorcist-kara-swisher-recode-decode-podcast-interview) by MIT Media Lab director
+- [Aligning AI to Human Values means Picking the Right Metrics](https://medium.com/@PartnershipAI/aligning-ai-to-human-values-means-picking-the-right-metrics-855859e6f047) - Partnership on AI - Jonathan Stray
 
 ## Interactive Demos
 - Google - [Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
@@ -82,6 +83,7 @@
 - [Human Contexts & Ethics of Data](https://hce-sts.org/) - UC Berkeley - Prof. Cathryn Carson
 - [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Moral Questions of Data Science](https://bcourses.berkeley.edu/courses/1477033) - UC Berkeley - Prof. Niko Kolodny
+- [Introduction To The Ethics Of Artificial Intelligence](https://www.catherinestinson.ca/Files/Teaching/Syllabus_Ethics_AI.pdf) - University of Bonn - Dr. Catherine Stinson
 - [Calling Bullshit](https://callingbullshit.org/) - UW
 - [Paper] [Integrating Ethics within Machine-learning Courses](https://dl.acm.org/citation.cfm?id=3341164)
 - [Google Sheet] [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
