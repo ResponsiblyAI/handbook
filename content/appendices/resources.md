@@ -67,6 +67,9 @@
 - Google - [Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 - Google People + AI - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/) & [Measuring Fairness](https://pair.withgoogle.com/explorables/measuring-fairness/)
 
+## Professional Responsibility
+- Rogaway, P. (2015). [The Moral Character of Cryptographic Work](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/moral-en.pdf). IACR Cryptology ePrint Archive, 2015, 1162. [Video](https://youtu.be/F-XebcVSyJw)
+
 ## Courses
 
 - [Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) - NYU - Prof. Julia Stoyanovich ([paper](https://arxiv.org/pdf/1912.10564.pdf))
