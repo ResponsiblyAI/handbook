@@ -88,6 +88,7 @@
 - [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Moral Questions of Data Science](https://bcourses.berkeley.edu/courses/1477033) - UC Berkeley - Prof. Niko Kolodny
 - [Introduction To The Ethics Of Artificial Intelligence](https://www.catherinestinson.ca/Files/Teaching/Syllabus_Ethics_AI.pdf) - University of Bonn - Dr. Catherine Stinson
+- [An Ethics of Artificial Intelligence Curriculum for Middle School Students](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/view#heading=h.lj79p5m41lr3) - MIT Media Lab - Blakeley H. Payne
 - [Calling Bullshit](https://callingbullshit.org/) - UW
 - [Paper] [Integrating Ethics within Machine-learning Courses](https://dl.acm.org/citation.cfm?id=3341164)
 - [Google Sheet] [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
