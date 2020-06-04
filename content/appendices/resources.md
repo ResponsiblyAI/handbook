@@ -92,6 +92,7 @@
 - [Calling Bullshit](https://callingbullshit.org/) - UW
 - [Paper] [Integrating Ethics within Machine-learning Courses](https://dl.acm.org/citation.cfm?id=3341164)
 - [Google Sheet] [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
+- [code.org AI](https://code.org/oceans)
 
 ## Kaggle Competitions
 
