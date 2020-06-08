@@ -12,6 +12,8 @@
 - WSDM'19 Tutorial - [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/wsdm19-fairness-tutorial)
 - Arvind Narayanan - [How to recognize AI snake oil](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)
 - Salesforce - [Responsible Creation of Artificial Intelligence](https://trailhead.salesforce.com/en/content/learn/modules/responsible-creation-of-artificial-intelligence)
+- Microsoft - [Artificial intelligence and machine learning security
+](https://docs.microsoft.com/en-us/security/engineering/)
 
 
 ## Conferences & Workshops
