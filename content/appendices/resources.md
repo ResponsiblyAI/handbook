@@ -14,7 +14,6 @@
 - Salesforce - [Responsible Creation of Artificial Intelligence](https://trailhead.salesforce.com/en/content/learn/modules/responsible-creation-of-artificial-intelligence)
 - Microsoft - [Artificial intelligence and machine learning security
 ](https://docs.microsoft.com/en-us/security/engineering/)
-- CVPR 2020 - [FATE Tutorial](https://youtu.be/-xGvcDzvi7Q)
 
 ## Conferences & Workshops
 
@@ -58,6 +57,7 @@
 - Rachel Thomas - InfoQ 2018 - [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning/)
 - Arvind Narayanan - ACM FAT* 2018 - [21 Fairness Definitions and their Politics](https://fairmlbook.org/tutorial2.html)
 - Solon Barocas and Moritz Hardt - NIPS2017 - [Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html)
+- CVPR 2020 - [FATE Tutorial](https://youtu.be/-xGvcDzvi7Q)
 
 ## Technology and Society
 
