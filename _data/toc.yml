@@ -24,10 +24,7 @@
 - url: /intro
   not_numbered: true
 
-- url: /vs-with
-  not_numbered: true
-
-- url: /workflow
+- url: /disassembly
   not_numbered: true
 
 - url: /aspects/01-overview
@@ -40,6 +37,9 @@
   - url: /aspects/05-privacy
   - url: /aspects/06-interpretability
   - url: /aspects/07-security
+
+- url: /reassembly
+  not_numbered: true
 
 - divider: true
 - header: Appendices
