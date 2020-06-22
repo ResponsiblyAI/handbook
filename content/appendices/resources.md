@@ -14,7 +14,7 @@
 - Salesforce - [Responsible Creation of Artificial Intelligence](https://trailhead.salesforce.com/en/content/learn/modules/responsible-creation-of-artificial-intelligence)
 - Microsoft - [Artificial intelligence and machine learning security
 ](https://docs.microsoft.com/en-us/security/engineering/)
-
+- CVPR 2020 - [FATE Tutorial](https://youtu.be/-xGvcDzvi7Q)
 
 ## Conferences & Workshops
 
@@ -72,6 +72,7 @@
 
 ## Professional Responsibility
 - Rogaway, P. (2015). [The Moral Character of Cryptographic Work](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/moral-en.pdf). IACR Cryptology ePrint Archive, 2015, 1162. [Video](https://youtu.be/F-XebcVSyJw)
+- Green, B. (2018). [Data science as political action: grounding data science in a politics of justice](https://arxiv.org/pdf/1811.03435.pdf). arXiv preprint arXiv:1811.03435.
 
 ## Courses
 
