@@ -50,6 +50,7 @@
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
 - [AI Blindspot](http://aiblindspot.media.mit.edu/)
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
+- [HCE Toolkit](https://data.berkeley.edu/hce-toolkit)
 
 ## Videos
 
@@ -71,7 +72,9 @@
 - Google People + AI - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/) & [Measuring Fairness](https://pair.withgoogle.com/explorables/measuring-fairness/)
 
 ## Professional Responsibility
+
 - Rogaway, P. (2015). [The Moral Character of Cryptographic Work](https://cseweb.ucsd.edu/~dstefan/cse227-spring19/papers/moral-en.pdf). IACR Cryptology ePrint Archive, 2015, 1162. [Video](https://youtu.be/F-XebcVSyJw)
+- Barocas, S., & Boyd, D. (2017). [Engaging the ethics of data science in practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext). Communications of the ACM, 60(11), 23-25.
 - Green, B. (2018). [Data science as political action: grounding data science in a politics of justice](https://arxiv.org/pdf/1811.03435.pdf). arXiv preprint arXiv:1811.03435.
 
 ## Courses
@@ -87,7 +90,8 @@
 - [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/) - MPI SWS
 - [Fairness, Explainability, and Accountability for ML](https://las.inf.ethz.ch/teaching/feaml-s19) - ETH Zurich
 - [The Science of Data Ethics](https://www.seas.upenn.edu/~cis399/index.html) (and [this](https://www.cis.upenn.edu/~mkearns/teaching/SDE/ScienceDataEthics.pdf)) - Penn
-- [Human Contexts & Ethics of Data](https://hce-sts.org/) - UC Berkeley - Prof. Cathryn Carson
+- [Human Contexts & Ethics of Data](https://data.berkeley.edu/hce
+) - UC Berkeley - Prof. Cathryn Carson ([Video](https://www.youtube.com/watch?v=vmmrdr-T1K0&feature=youtu.be)) ([Old](https://hce-sts.org/))
 - [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Moral Questions of Data Science](https://bcourses.berkeley.edu/courses/1477033) - UC Berkeley - Prof. Niko Kolodny
 - [Introduction To The Ethics Of Artificial Intelligence](https://www.catherinestinson.ca/Files/Teaching/Syllabus_Ethics_AI.pdf) - University of Bonn - Dr. Catherine Stinson
