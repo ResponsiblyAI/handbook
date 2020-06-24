@@ -24,7 +24,7 @@
 - url: /intro
   not_numbered: true
 
-- url: /disassembly
+- url: /deconstruct
   not_numbered: true
 
 - url: /aspects/01-overview
@@ -38,7 +38,7 @@
   - url: /aspects/06-interpretability
   - url: /aspects/07-security
 
-- url: /reassembly
+- url: /reconstruct
   not_numbered: true
 
 - divider: true
