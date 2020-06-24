@@ -51,6 +51,7 @@
 - [AI Blindspot](http://aiblindspot.media.mit.edu/)
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 - [HCE Toolkit](https://data.berkeley.edu/hce-toolkit)
+- Zook, M., & Barocas, S. (2017). boyd d, Crawford K, Keller E, Gangadharan SP, et al.(2017) [Ten simple rules for responsible big data research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399). PLoS Comput Biol, 13(3), e1005399.
 
 ## Videos
 
