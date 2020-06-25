@@ -14,6 +14,7 @@
 - Salesforce - [Responsible Creation of Artificial Intelligence](https://trailhead.salesforce.com/en/content/learn/modules/responsible-creation-of-artificial-intelligence)
 - Microsoft - [Artificial intelligence and machine learning security
 ](https://docs.microsoft.com/en-us/security/engineering/)
+- Montreal AI Ethics Institute - [The State of AI Ethics Report (June 2020)](https://montrealethics.ai/the-state-of-ai-ethics-report-june-2020/)
 
 ## Conferences & Workshops
 
@@ -70,6 +71,7 @@
 - [Aligning AI to Human Values means Picking the Right Metrics](https://medium.com/@PartnershipAI/aligning-ai-to-human-values-means-picking-the-right-metrics-855859e6f047) - Partnership on AI - Jonathan Stray
 
 ## Interactive Demos
+
 - Google - [Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
 - Google People + AI - [Hidden Bias](https://pair.withgoogle.com/explorables/hidden-bias/) & [Measuring Fairness](https://pair.withgoogle.com/explorables/measuring-fairness/)
 
