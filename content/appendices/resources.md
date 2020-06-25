@@ -99,6 +99,7 @@
 - [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Moral Questions of Data Science](https://bcourses.berkeley.edu/courses/1477033) - UC Berkeley - Prof. Niko Kolodny
 - [Introduction To The Ethics Of Artificial Intelligence](https://www.catherinestinson.ca/Files/Teaching/Syllabus_Ethics_AI.pdf) - University of Bonn - Dr. Catherine Stinson
+- [Data Science Ethics](https://www.coursera.org/learn/data-science-ethics) - University of Michigan @ Coursera ([Blended Syllabus](http://www-personal.umich.edu/~csandvig/SIADS%20503%20Data%20Science%20Ethics%20--%20Syllabus.pdf))
 - [An Ethics of Artificial Intelligence Curriculum for Middle School Students](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/view#heading=h.lj79p5m41lr3) - MIT Media Lab - Blakeley H. Payne
 - [Calling Bullshit](https://callingbullshit.org/) - UW
 - [Paper] [Integrating Ethics within Machine-learning Courses](https://dl.acm.org/citation.cfm?id=3341164)
