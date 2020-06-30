@@ -60,6 +60,7 @@
 - fast.ai - [Algorithmic Bias (NLP video 16)](https://youtu.be/pThqge9QDn8)
 - Rachel Thomas - InfoQ 2018 - [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning/)
 - Arvind Narayanan - ACM FAT* 2018 - [21 Fairness Definitions and their Politics](https://fairmlbook.org/tutorial2.html)
+- Moritz Hardt - MLSS 2020 - [Fairness](https://youtu.be/Igq_S_7IfOU)
 - Solon Barocas and Moritz Hardt - NIPS2017 - [Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html)
 - CVPR 2020 - [FATE Tutorial](https://youtu.be/-xGvcDzvi7Q)
 
