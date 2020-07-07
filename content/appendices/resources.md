@@ -53,7 +53,8 @@
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 - [HCE Toolkit](https://data.berkeley.edu/hce-toolkit)
 - Zook, M., & Barocas, S. (2017). boyd d, Crawford K, Keller E, Gangadharan SP, et al.(2017) [Ten simple rules for responsible big data research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399). PLoS Comput Biol, 13(3), e1005399.
-- Bertelsmann Stiftung - [From Principles to Practice - VCIO](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/WKIO_2020_final.pdf)
+- [Algo.Rules](https://algorules.org/en/home)
+- Bertelsmann Stiftung - [From Principles to Practice - VCIO](https://algorules.org/fileadmin/files/alg/From_Principles_to_Practice.pdf)
 
 ## Videos
 
