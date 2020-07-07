@@ -34,12 +34,19 @@
   - url: /aspects/02-robustness
   - url: /aspects/03-fairness
   - url: /aspects/04-dynamics
-  - url: /aspects/05-privacy
-  - url: /aspects/06-interpretability
+  - url: /aspects/05-interpretability
+  - url: /aspects/06-privacy
   - url: /aspects/07-security
 
 - url: /reconstruct
   not_numbered: true
+
+- url: /pillars/01-overview
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /pillars/02-data
+  - url: /pillars/03-optimization
 
 - divider: true
 - header: Appendices

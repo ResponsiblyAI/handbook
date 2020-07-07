@@ -1,1 +1,1 @@
-# Aspects - Overview
+# Aspects
