@@ -83,6 +83,7 @@
 - Barocas, S., & Boyd, D. (2017). [Engaging the ethics of data science in practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext). Communications of the ACM, 60(11), 23-25.
 - Green, B. (2018). [Data science as political action: grounding data science in a politics of justice](https://arxiv.org/pdf/1811.03435.pdf). arXiv preprint arXiv:1811.03435.
 - Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020). [Roles for computing in social change](https://dl.acm.org/doi/pdf/10.1145/3351095.3372871?casa_token=MRa0S9M9gNwAAAAA:hrz7NgIa55il9eDC-2YlUOV_sElCDwEyMeP3MH0HFK6PULF2zSppubKB_O_NKLya8edxUuB38_dIZg). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260).
+- Passi, S., & Barocas, S. (2019, January). [Problem formulation and fairness](https://dl.acm.org/doi/pdf/10.1145/3287560.3287567?casa_token=RuHlpdgD2KsAAAAA:mp1-wwNI8GqGoUpcvcBS62B8MfyaFfFtLPTg8LmjUm3SGR0opT9IXi1G548PR-lFrXw6Z3L7p9Ijag). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 39-48).
 - Syncd (2020). [Yann LeCun Quits Twitter Amid Acrimonious Exchanges on AI Bias](https://syncedreview.com/2020/06/30/yann-lecun-quits-twitter-amid-acrimonious-exchanges-on-ai-bias/?fbclid=IwAR35jA6NFjHNWQJ6mQBsBNfichfvhj7D39OdnQXj9pB_h73Pqw-B4_HFVfA).
 
 ## Courses
