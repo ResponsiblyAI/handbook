@@ -15,6 +15,7 @@
 - Microsoft - [Artificial intelligence and machine learning security
 ](https://docs.microsoft.com/en-us/security/engineering/)
 - Montreal AI Ethics Institute - [The State of AI Ethics Report (June 2020)](https://montrealethics.ai/the-state-of-ai-ethics-report-june-2020/)
+- Pratyusha Ria Kalluri - [Dreaming up Radical AI - Reading List](https://docs.google.com/document/d/1qJlspdmiQBGstopjAMhZ2ejmRUl_MrQK7ZMnhBAtt4c/edit)
 
 ## Conferences & Workshops
 
@@ -43,7 +44,7 @@
 - [Montreal Declaration for a Responsible Development of AI](https://www.montrealdeclaration-responsibleai.com/)
 - Google - [Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
 - Google - [People + AI Guidebook](https://pair.withgoogle.com/)
-- EU - [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai)
+- EU - [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) | [Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment](https://ec.europa.eu/digital-single-market/en/news/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment)
 - [Denon](http://deon.drivendata.org/) - An ethics checklist for data scientists
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., & Gebru, T. (2019, January). [Model cards for model reporting](https://arxiv.org/pdf/1810.03993.pdf). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 220-229). ACM.
 - doteveryone - [Consequence Scanning](https://www.doteveryone.org.uk/project/consequence-scanning/)
@@ -55,6 +56,7 @@
 - Zook, M., & Barocas, S. (2017). boyd d, Crawford K, Keller E, Gangadharan SP, et al.(2017) [Ten simple rules for responsible big data research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399). PLoS Comput Biol, 13(3), e1005399.
 - [Algo.Rules](https://algorules.org/en/home)
 - Bertelsmann Stiftung - [From Principles to Practice - VCIO](https://algorules.org/fileadmin/files/alg/From_Principles_to_Practice.pdf)
+- Madaio, M. A., Stark, L., Wortman Vaughan, J., & Wallach, H. (2020, April). [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445?casa_token=yre1Bv5w2jQAAAAA:vyftSzSuZB9houOW3ezVyc7fPtz2TDpN2fXiYtG_x7oy8_eS2A4W-VEqMa60q-smP7Di67Fw9mPjSg). In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14).
 
 ## Videos
 
@@ -85,6 +87,8 @@
 - Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020). [Roles for computing in social change](https://dl.acm.org/doi/pdf/10.1145/3351095.3372871?casa_token=MRa0S9M9gNwAAAAA:hrz7NgIa55il9eDC-2YlUOV_sElCDwEyMeP3MH0HFK6PULF2zSppubKB_O_NKLya8edxUuB38_dIZg). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260).
 - Passi, S., & Barocas, S. (2019, January). [Problem formulation and fairness](https://dl.acm.org/doi/pdf/10.1145/3287560.3287567?casa_token=RuHlpdgD2KsAAAAA:mp1-wwNI8GqGoUpcvcBS62B8MfyaFfFtLPTg8LmjUm3SGR0opT9IXi1G548PR-lFrXw6Z3L7p9Ijag). In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 39-48).
 - Syncd (2020). [Yann LeCun Quits Twitter Amid Acrimonious Exchanges on AI Bias](https://syncedreview.com/2020/06/30/yann-lecun-quits-twitter-amid-acrimonious-exchanges-on-ai-bias/?fbclid=IwAR35jA6NFjHNWQJ6mQBsBNfichfvhj7D39OdnQXj9pB_h73Pqw-B4_HFVfA).
+- Fairlearn - [Theory of change](https://hackmd.io/EBh01XPtRZGHEg76oD1rGw)
+- Fairlearn - [How to talk and write about fairness in AI](https://fairlearn.github.io/contributor_guide/how_to_talk_about_fairness.html)
 
 ## Courses
 
@@ -101,9 +105,11 @@
 - [The Science of Data Ethics](https://www.seas.upenn.edu/~cis399/index.html) (and [this](https://www.cis.upenn.edu/~mkearns/teaching/SDE/ScienceDataEthics.pdf)) - Penn
 - [Human Contexts & Ethics of Data](https://data.berkeley.edu/hce
 ) - UC Berkeley - Prof. Cathryn Carson ([Video](https://www.youtube.com/watch?v=vmmrdr-T1K0&feature=youtu.be)) ([Old](https://hce-sts.org/))
+- [Fairness Accountability and Transparency in AI](http://cs-people.bu.edu/sameki/ResponsibleAI.html) - BU - Dr. Mehrnoosh Sameki
 - [data: past, present, and future](https://data-ppf.github.io/) - Columbia University - Prof. Matt Jones and Prof. Chris Wiggins
 - [Moral Questions of Data Science](https://bcourses.berkeley.edu/courses/1477033) - UC Berkeley - Prof. Niko Kolodny
 - [Introduction To The Ethics Of Artificial Intelligence](https://www.catherinestinson.ca/Files/Teaching/Syllabus_Ethics_AI.pdf) - University of Bonn - Dr. Catherine Stinson
+- [Ethical Issues Surrounding Artificial Intelligence Systems and Big Data](https://github.com/sblodgett/ai-ethics) - UMass
 - [Data Science Ethics](https://www.coursera.org/learn/data-science-ethics) - University of Michigan @ Coursera ([Blended Syllabus](http://www-personal.umich.edu/~csandvig/SIADS%20503%20Data%20Science%20Ethics%20--%20Syllabus.pdf))
 - [An Ethics of Artificial Intelligence Curriculum for Middle School Students](https://docs.google.com/document/d/1e9wx9oBg7CR0s5O7YnYHVmX7H7pnITfoDxNdrSGkp60/view#heading=h.lj79p5m41lr3) - MIT Media Lab - Blakeley H. Payne
 - [Calling Bullshit](https://callingbullshit.org/) - UW
