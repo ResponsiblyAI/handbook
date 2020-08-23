@@ -89,6 +89,7 @@
 - Syncd (2020). [Yann LeCun Quits Twitter Amid Acrimonious Exchanges on AI Bias](https://syncedreview.com/2020/06/30/yann-lecun-quits-twitter-amid-acrimonious-exchanges-on-ai-bias/?fbclid=IwAR35jA6NFjHNWQJ6mQBsBNfichfvhj7D39OdnQXj9pB_h73Pqw-B4_HFVfA).
 - Fairlearn - [Theory of change](https://hackmd.io/EBh01XPtRZGHEg76oD1rGw)
 - Fairlearn - [How to talk and write about fairness in AI](https://fairlearn.github.io/contributor_guide/how_to_talk_about_fairness.html)
+- Fairlearn - [Engaging with sociotechnical fairness work at different levels of "closure"](https://drive.google.com/file/d/1leJHwmi4LLYl4CQVSGN4ob18IJvnBrAv/view)
 
 ## Courses
 
