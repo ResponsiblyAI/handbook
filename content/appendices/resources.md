@@ -92,7 +92,7 @@
 - Fairlearn - [Engaging with sociotechnical fairness work at different levels of "closure"](https://drive.google.com/file/d/1leJHwmi4LLYl4CQVSGN4ob18IJvnBrAv/view)
 
 ## Courses
-
+- [Responsible AI, Law, Ethics & Society](https://learn.responsibly.ai/)
 - [Responsible Data Science](https://dataresponsibly.github.io/courses/spring19/) - NYU - Prof. Julia Stoyanovich ([paper](https://arxiv.org/pdf/1912.10564.pdf))
 - [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - CMU - Prof. Yulia Tsvetkov
 - [Data Science Ethics](https://datascienceethics.org) - Yale - Prof. Elisa Celis
